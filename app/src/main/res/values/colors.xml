@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2020 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <color name="indigo_200">#FF9FA8DA</color>
+    <color name="indigo_500">#FF3F51B5</color>
+    <color name="indigo_800">#FF283593</color>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_700">#FF0288D1</color>
+    <color name="red_700">#FFD32F2F</color>
+    <color name="red_400">#FFEF5350</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!--    TamDT-->
+    <color name="text_color_primary">#333333</color>
+    <color name="bgo_color_start">#f48833</color>
+    <color name="bgo_color_end">#eb2a57</color>
+    <color name="black_212121">#212121</color>
+    <color name="gray_888888">#888888</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange_F37F36">#F37F36</color>
+    <color name="gray_444444">#444444</color>
+    <color name="red_ED1C24">#ED1C24</color>
+    <color name="color_text_normal">#666666</color>
+    <color name="orange_F98928">#F98928</color>
+    <color name="red_C8254B">#C8254B</color>
+    <color name="orange_E37722">#E37722</color>
+    <color name="gray_A8A8A8">#A8A8A8</color>
+    <color name="gray_707070">#707070</color>
+    <color name="grey01">#F2F8FB</color>
+    <color name="white_CBFFFFFF">#CBFFFFFF</color>
+    <color name="bg_FDE1DA">#FDE1DA</color>
+    <color name="gray_666666">#444444</color>
+    <color name="gray_E7E7E7">#E7E7E7</color>
+    <color name="dark_gray">#696969</color>
+
+    //qa
+    <color name="orange_FFE2CD">#FFE2CD</color>
+    <color name="orange_FFFFCCA7">#FFFFCCA7</color>
+    <color name="bg_fingerprint">#EDEDED</color>
+    <color name="gray_EFEFEF">#EFEFEF</color>
+    <color name="cm_text_btn_color">#666666</color>
+</resources>
